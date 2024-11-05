@@ -1,0 +1,16 @@
+.arrow {
+  height: 20px;
+  width: 20;
+}
+.para {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 15px;
+  width: 80%;
+  max-width: 800px;
+}
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
